@@ -5,6 +5,7 @@ from typing import Any, Dict, Optional
 import requests
 
 
+
 class GoogleMapsClient:
     def __init__(self, api_key: Optional[str]) -> None:
         self.api_key = api_key
