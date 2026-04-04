@@ -164,4 +164,4 @@ CONFIDENCE_THRESHOLD=0.5
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-*Created by [Your Name](https://github.com/yourusername)*
+
